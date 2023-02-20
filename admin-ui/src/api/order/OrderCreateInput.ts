@@ -7,4 +7,5 @@ export type OrderCreateInput = {
   totalPrice?: number | null;
   customer?: CustomerWhereUniqueInput | null;
   product?: ProductWhereUniqueInput | null;
+  ofek?: string | null;
 };

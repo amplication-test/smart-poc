@@ -10,4 +10,5 @@ export type Order = {
   totalPrice: number | null;
   customer?: Customer | null;
   product?: Product | null;
+  ofek: string | null;
 };
