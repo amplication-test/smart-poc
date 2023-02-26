@@ -72,4 +72,4 @@ class UserUpdateInput {
   roles?: InputJsonValue;
 }
 
-export { UserUpdateInput as UserUpdateInput };
+export { UserUpdateInput };

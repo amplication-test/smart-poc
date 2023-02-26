@@ -112,4 +112,4 @@ class Order {
   ofek!: string | null;
 }
 
-export { Order as Order };
+export { Order };

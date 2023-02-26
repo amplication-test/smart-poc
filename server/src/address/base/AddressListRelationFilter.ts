@@ -53,4 +53,4 @@ class AddressListRelationFilter {
   })
   none?: AddressWhereInput;
 }
-export { AddressListRelationFilter as AddressListRelationFilter };
+export { AddressListRelationFilter };

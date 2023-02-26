@@ -50,4 +50,4 @@ class AddressFindManyArgs {
   take?: number;
 }
 
-export { AddressFindManyArgs as AddressFindManyArgs };
+export { AddressFindManyArgs };

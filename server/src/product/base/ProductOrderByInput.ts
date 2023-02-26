@@ -73,4 +73,4 @@ class ProductOrderByInput {
   description?: SortOrder;
 }
 
-export { ProductOrderByInput as ProductOrderByInput };
+export { ProductOrderByInput };

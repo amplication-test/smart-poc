@@ -25,4 +25,4 @@ class OrderCreateNestedManyWithoutProductsInput {
   connect?: Array<OrderWhereUniqueInput>;
 }
 
-export { OrderCreateNestedManyWithoutProductsInput as OrderCreateNestedManyWithoutProductsInput };
+export { OrderCreateNestedManyWithoutProductsInput };

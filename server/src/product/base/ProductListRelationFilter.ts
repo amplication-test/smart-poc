@@ -53,4 +53,4 @@ class ProductListRelationFilter {
   })
   none?: ProductWhereInput;
 }
-export { ProductListRelationFilter as ProductListRelationFilter };
+export { ProductListRelationFilter };

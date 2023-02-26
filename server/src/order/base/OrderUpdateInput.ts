@@ -93,4 +93,4 @@ class OrderUpdateInput {
   ofek?: string | null;
 }
 
-export { OrderUpdateInput as OrderUpdateInput };
+export { OrderUpdateInput };

@@ -18,4 +18,4 @@ class CreateAddressArgs {
   data!: AddressCreateInput;
 }
 
-export { CreateAddressArgs as CreateAddressArgs };
+export { CreateAddressArgs };

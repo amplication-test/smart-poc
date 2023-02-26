@@ -93,4 +93,4 @@ class OrderCreateInput {
   ofek?: string | null;
 }
 
-export { OrderCreateInput as OrderCreateInput };
+export { OrderCreateInput };

@@ -102,4 +102,4 @@ class OrderWhereInput {
   ofek?: StringNullableFilter;
 }
 
-export { OrderWhereInput as OrderWhereInput };
+export { OrderWhereInput };

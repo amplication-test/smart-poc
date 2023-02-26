@@ -87,4 +87,4 @@ class CustomerUpdateInput {
   address?: AddressWhereUniqueInput | null;
 }
 
-export { CustomerUpdateInput as CustomerUpdateInput };
+export { CustomerUpdateInput };

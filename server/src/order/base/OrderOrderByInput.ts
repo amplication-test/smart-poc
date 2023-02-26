@@ -100,4 +100,4 @@ class OrderOrderByInput {
   ofek?: SortOrder;
 }
 
-export { OrderOrderByInput as OrderOrderByInput };
+export { OrderOrderByInput };

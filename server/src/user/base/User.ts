@@ -80,4 +80,4 @@ class User {
   roles!: JsonValue;
 }
 
-export { User as User };
+export { User };
