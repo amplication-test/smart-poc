@@ -18,8 +18,6 @@ export class PasswordService {
   salt: Salt;
 
   constructor(private configService: ConfigService) {
-    console.log("asdf");
-
     const saltOrRounds = this.configService.get(BCRYPT_SALT_VAR);
     this.salt = parseSalt(saltOrRounds);
   }
